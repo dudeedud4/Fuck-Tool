@@ -1,0 +1,14 @@
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\bin\Release\CSharp.exe.config
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\bin\Release\CSharp.exe
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\bin\Release\CSharp.pdb
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\bin\Release\BCMakeCert.dll
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\bin\Release\CertMaker.dll
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\bin\Release\FiddlerCore4.dll
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\bin\Release\ReaperTheme.dll
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\bin\Release\FiddlerCore4.xml
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\obj\Release\CSharp.Form1.resources
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\obj\Release\CSharp.Properties.Resources.resources
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\obj\Release\CSharp.csproj.GenerateResource.Cache
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\obj\Release\CSharp.exe
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\obj\Release\CSharp.pdb
+A:\Appli VB\FuckToolWith FiddlerCore\CSharp\CSharp\obj\Release\CSharp.csprojResolveAssemblyReference.cache
